@@ -1,0 +1,11 @@
+Num1= int(input("Enter Your First number:"))
+Num2= int(input("Enter Your Second Number :"))
+#Arithmetic
+print("add:",(Num1+Num2))
+print("subtraction:",(Num1-Num2))
+print("mul:",(Num1*Num2))
+print("div:",(Num1/Num2))
+print("mod:",(Num1%Num2))
+print("exponent:",(Num1**Num2))
+print("pov floor div:",(Num1//Num2))
+print("neg floor div:",(-Num1//Num2))
